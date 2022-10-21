@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1267041",
+      "name": "BBD房子",
+      "font_class": "fangzi",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "2768298",
+      "name": "房屋",
+      "font_class": "fangwu",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "9509954",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
